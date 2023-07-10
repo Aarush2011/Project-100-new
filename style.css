@@ -1,0 +1,45 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+body{
+    background-color:rgba(194, 195, 186, 0.968);
+}
+h1{
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: bold;
+}
+h4{
+    color: rgb(238, 4, 255);
+}
+img{
+    width: 37%;
+    height: 200px;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px rgb(255, 36, 2);
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
+img:hover{
+    border-radius: 140px;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    background-color: white;
+}
+
